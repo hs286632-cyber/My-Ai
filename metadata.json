@@ -1,0 +1,6 @@
+{
+  "name": "My AI Assistant",
+  "description": "A modern AI assistant featuring multi-lingual chat (English, Urdu, Hindi, Roman Urdu), AI image generation, voice input, chat history, dark/light theme, and admin panel.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
